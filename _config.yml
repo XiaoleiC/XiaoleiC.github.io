@@ -16,17 +16,17 @@ address_link: https://maps.app.goo.gl/aXCQvQJTS6Dji2jv5
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
+keywords: xiaolei chu, chu xiaolei, chuxiaolei, xiaoleichu, 初晓雷
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=RC5Dq5EAAAAJ&hl=en
 # cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+github_link: https://github.com/XiaoleiC
+linkedin: https://www.linkedin.com/in/xiaolei-chu-774a451b0/
+# twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
