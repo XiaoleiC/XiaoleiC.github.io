@@ -32,8 +32,8 @@ linkedin: https://www.linkedin.com/in/xiaolei-chu-774a451b0/
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/selfie.jpg
 # logo: ./assets/img/logo.png
-favicon: ./assets/img/uc_berkeley_seal.png
-favicon_dark: ./assets/img/uc_berkeley_seal.png
+favicon: ./assets/img/cal.png
+favicon_dark: ./assets/img/cal.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
