@@ -8,23 +8,22 @@ layout: homepage
 I'm a Ph.D. candidate in Department of Civil & Environmental Engineering at <a href="https://www.berkeley.edu/" target="_blank"> UC Berkeley</a>,
 <!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include understanding community resilience by leveraging the knowledge of statistical physics, e.g., renormalization group and mean field theory. 
+working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include understanding community resilience by leveraging the knowledge of statistical physics, e.g., renormalization group and mean field theory. My previous research topics are Bayesian system identification, uncertainty quantification, and hurricane simulation.
 
-In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>.
+Before coming to Berkeley, I completed my master's degree at Tongji University, advised by Prof. <a href= "https://bridge.tongji.edu.cn/60/0e/c14928a155662/page.htm" target = "_blank"> Yaojun Ge and Prof. <a href= "https://bridge.tongji.edu.cn/a0/4c/c14930a303180/page.htm" target = "_blank"> Wei Cui. I got my bachelor's degree at Southwest Jiaotong University.
 <!-- and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>.  -->
 
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+Outside academia, I like road trips, swimming, hiking, skiing, running, and exploring different restaurants. Recently, I am learning to be a photographer :)
 
 
 ## Research Interests
-- **Causal Inference and Precision Medicine:** causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers
-- **Machine Learning:** fairness ML, semi-supervised learning
-- **Manifold Learning and Metric Learning:** positive semi-definite manifold learning and metric learning
-- **Functional Data Analysis:** functional regression, and clustering methods
-
+- **Statistical Physics:** mean field theory, renormalization group
+- **Uncertainty Quantification:** Monte Carlo simulation, surrogate model
+- **Bayesian system identification:** emphasis is on structural health monitoring
+- **Hurricane simulation:** Vickery's empirical full-track model
 
 ## Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
