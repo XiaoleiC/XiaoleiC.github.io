@@ -21,12 +21,24 @@ Outside academia, I like road trips, swimming, hiking, skiing, running, and expl
 
 ## Research Interests
 - **Statistical Physics:** mean field theory, renormalization group
+- **Large Language Model:** sentiment analysis (BERT, etc.)
 - **Uncertainty Quantification:** Monte Carlo simulation, surrogate model
 - **Bayesian system identification:** emphasis is on structural health monitoring
 - **Hurricane simulation:** Vickery's empirical full-track model
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+- **[Oct. 2021]** China National Scholarship, Shanghai, China
+- **[Oct. 2021]** Excellent Graduate of Tongji University, Shanghai, China
+- **[Oct. 2021]** Excellent Master's Thesis at Tongji University, Shanghai, China
+- **[Aug. 2019]** Citation for Outstanding College Graduate, China Civil Engineering Society, Shanghai, China
+- **[Jun. 2019]** Excellent Undergraduate of Sichuan Province, Chengdu, China
+- **[Jan. 2019]** 1st International Engineering Mechanics Competition: 1st prize for individual competition and 2nd prize for team competition, Nanjing, China
+- **[Apr. 2018]** ASCE Steel Bridge Competition: 5th Overall and Best Display Medal (as the group leader)
+- **[Oct. 2017]** 1st prize in the 9th Chinese Mathematics Competition (CMC), Chengdu, China
+- **[Jul. 2017]** 1st prize in the 11th Zhou Peiyuan National Mechanics Competition, Chengdu, China
+- **[Oct. 2016]** 1st prize in the 8th Chinese Mathematics Competition (CMC), Chengdu, China
+- **[Sep. 2016-2018]** Railway Alumni Scholarship, Chengdu, China
+
 
 
 <!-- {% include_relative _includes/publications.md %} -->
