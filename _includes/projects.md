@@ -58,14 +58,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/mediation.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/frequency_mode4_low_reso.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SCHM</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Multiscale Time Series Decomposition for Structural Dynamic Properties: Long-Term Trend and Ambient Interference</a></div>
-    <div class="author"><strong>Xiaolei Chu, Wei Cui, Shengyi Xu, Lin Zhao, Hua Guan, Yaojun Ge</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2024.</em></div>
+    <div class="title"><a href="https://www.hindawi.com/journals/schm/2023/6485040/">Multiscale Time Series Decomposition for Structural Dynamic Properties: Long-Term Trend and Ambient Interference</a></div>
+    <div class="author"><strong>Xiaolei Chu</strong>, Wei Cui, Shengyi Xu, Lin Zhao, Hua Guan, Yaojun Ge</div>
+    <div class="periodical"><em>Structural Control and Health Monitoring, Feb. 2023.</em></div>
     <div class="links">
     <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -79,27 +79,6 @@
 </li>
   
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
-    <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
-    </div>
-  </div>
-</div>
-</li>
   
 <br>
 
