@@ -28,9 +28,9 @@ Outside academia, I like road trips, swimming, hiking, skiing, running, and expl
 - **Hurricane simulation:** Vickery's empirical full-track model
 
 ## Awards
+- **[Oct. 2022]** Excellent Master's Thesis at Tongji University, Shanghai, China
+- **[Jun. 2022]** Excellent Graduate of Tongji Unversity, Shanghai, China
 - **[Oct. 2021]** China National Scholarship, Shanghai, China
-- **[Oct. 2021]** Excellent Graduate of Tongji University, Shanghai, China
-- **[Oct. 2021]** Excellent Master's Thesis at Tongji University, Shanghai, China
 - **[Aug. 2019]** Citation for Outstanding College Graduate, China Civil Engineering Society, Shanghai, China
 - **[Jun. 2019]** Excellent Undergraduate of Sichuan Province, Chengdu, China
 - **[Jan. 2019]** 1st International Engineering Mechanics Competition: 1st prize for individual competition and 2nd prize for team competition, Nanjing, China
