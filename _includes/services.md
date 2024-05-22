@@ -11,8 +11,8 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>ASCE Journal of Structural Engineering</li>
-  <li>ASCE Journal of Engineering</li>
+  <li>Journal of Structural Engineering, ASCE</li>
+  <li>Journal of Engineering</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
