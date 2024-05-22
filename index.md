@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I'm a Ph.D. candidate in Department of Civil & Environmental Engineering at <a href="https://www.berkeley.edu/" target="_blank"> UC Berkeley</a>,
+I'm a Ph.D. candidate in Department of Civil & Environmental Engineering at UC Berkeley,
 <!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include understanding community resilience by leveraging the knowledge of statistical physics, e.g., renormalization group and mean field theory. My previous research topics are Bayesian system identification, uncertainty quantification, and hurricane simulation.
