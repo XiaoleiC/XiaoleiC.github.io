@@ -39,7 +39,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2306.06534">Maximum entropy-based modeling of community-level hazard responses for civil infrastructures</a></div>
-    <div class="author"><strong>Xiaolei Chu, Ziqi Wang</strong></div>
+    <div class="author"><strong>Xiaolei Chu</strong>, Ziqi Wang</div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Oct. 2023.</em></div>
     <div class="links">
 <!--     <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -59,12 +59,12 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/mediation.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">SCHM</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">On the Inference of Confounders for Mediation Analysis</a></div>
-    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
+    <div class="title"><a href="">Multiscale Time Series Decomposition for Structural Dynamic Properties: Long-Term Trend and Ambient Interference</a></div>
+    <div class="author"><strong>Xiaolei Chu, Wei Cui, Shengyi Xu, Lin Zhao, Hua Guan, Yaojun Ge</strong></div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2024.</em></div>
     <div class="links">
     <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
