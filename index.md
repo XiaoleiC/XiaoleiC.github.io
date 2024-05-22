@@ -2,32 +2,6 @@
 layout: homepage
 ---
 
-<style>
-  body {
-    background-image: ./assets/img/pink_sky.jpg;
-    background-size: cover; /* 确保背景图片覆盖整个页面 */
-    background-position: center; /* 将背景图片居中 */
-    background-attachment: fixed; /* 固定背景图片，不随页面滚动 */
-    margin: 0;
-    padding: 0;
-    height: 100vh;
-    width: 100vw;
-  }
-
-  .overlay {
-    background-color: rgba(255, 255, 255, 0.5); /* 白色背景，透明度为50% */
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1; /* 确保覆盖层在内容后面 */
-  }
-</style>
-
-<div class="overlay"></div>
-
-
 ## About Me
 
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
