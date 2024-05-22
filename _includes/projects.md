@@ -77,7 +77,74 @@
   </div>
 </div>
 </li>
-  
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/bayesian_vortex_force.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ES</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S014102962200699X">Bayesian inference based parametric identification of vortex-excited force using on-site measured vibration data on a long-span bridge</a></div>
+    <div class="author">Peng Liu, <strong>Xiaolei Chu</strong>, Wei Cui, Lin Zhao, Yaojun Ge</div>
+    <div class="periodical"><em>Engineering Structures, Sep. 2022.</em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/FlutterSpeed.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">JSE</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ascelibrary.org/doi/abs/10.1061/(ASCE)ST.1943-541X.0003388">Life-Cycle Assessment of Long-Span Bridge’s Wind Resistant Performance Considering Multisource Time-Variant Effects and Uncertainties</a></div>
+    <div class="author"><strong>Xiaolei Chu</strong>, Wei Cui, Lin Zhao, Yaojun Ge</div>
+    <div class="periodical"><em>Journal of Structural Engineering, May 2022.</em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/MCMC_sampling_simu_force.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">MSSP</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0888327021010943">Bayesian spectral density approach for identification of bridge section’s flutter derivatives operated in turbulent flow</a></div>
+    <div class="author"><strong>Xiaolei Chu</strong>, Wei Cui, Peng Liu, Lin Zhao, Yaojun Ge</div>
+    <div class="periodical"><em>Mechanical Systems and Signal Processing, May 2022.</em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/life_cycle_rcp26locxin8_contourf_surrogate.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">JWEIA</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0167610521001835">Probabilistic flutter analysis of a long-span bridge in typhoon-prone regions considering climate change and structural deterioration</a></div>
+    <div class="author"><strong>Xiaolei Chu</strong>, Wei Cui, Lin Zhao, Shuyang Cao, Yaojun Ge</div>
+    <div class="periodical"><em>Journal of Wind Engineering and Industrial Aerodynamics, Aug. 2021.</em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
+
+
 
   
 <br>
