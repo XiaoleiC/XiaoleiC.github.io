@@ -34,7 +34,7 @@ Outside academia, I like road trips, swimming, hiking, skiing, running, and expl
 - **[Aug. 2019]** Citation for Outstanding College Graduate, China Civil Engineering Society, Shanghai, China
 - **[Jun. 2019]** Excellent Undergraduate of Sichuan Province, Chengdu, China
 - **[Jan. 2019]** 1st International Engineering Mechanics Competition: 1st prize for individual competition and 2nd prize for team competition, Nanjing, China
-- **[Apr. 2018]** ASCE Steel Bridge Competition: 5th Overall and Best Display Medal (as the group leader)
+- **[Apr. 2018]** ASCE Steel Bridge Competition: 5th Overall and Best Display Medal (as the group leader), Sacramento, CA, USA
 - **[Oct. 2017]** 1st prize in the 9th Chinese Mathematics Competition (CMC), Chengdu, China
 - **[Jul. 2017]** 1st prize in the 11th Zhou Peiyuan National Mechanics Competition, Chengdu, China
 - **[Oct. 2016]** 1st prize in the 8th Chinese Mathematics Competition (CMC), Chengdu, China
