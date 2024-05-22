@@ -10,7 +10,7 @@ I'm a Ph.D. candidate in Department of Civil & Environmental Engineering at <a h
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include understanding community resilience by leveraging the knowledge of statistical physics, e.g., renormalization group and mean field theory. My previous research topics are Bayesian system identification, uncertainty quantification, and hurricane simulation.
 
-Before coming to Berkeley, I completed my master's degree at Tongji University, advised by Prof. <a href= "https://bridge.tongji.edu.cn/60/0e/c14928a155662/page.htm" target = "_blank"> Yaojun Ge and Prof. <a href= "https://bridge.tongji.edu.cn/a0/4c/c14930a303180/page.htm" target = "_blank"> Wei Cui. I got my bachelor's degree at Southwest Jiaotong University.
+Before coming to Berkeley, I completed my master's degree at Tongji University, advised by Prof. <a href= "https://bridge.tongji.edu.cn/60/0e/c14928a155662/page.htm" target = "_blank"> Yaojun Ge</a> and Prof. <a href= "https://bridge.tongji.edu.cn/a0/4c/c14930a303180/page.htm" target = "_blank"> Wei Cui</a>. I got my bachelor's degree at Southwest Jiaotong University.
 <!-- and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>.  -->
 
 <!-- 
@@ -20,7 +20,8 @@ Outside academia, I like road trips, swimming, hiking, skiing, running, and expl
 
 
 ## Research Interests
-- **Statistical Physics:** mean field theory, renormalization group
+- **Statistical Physics:** mean field theory, renormalization group, equilibrium, non-equilibrium
+- **Community Resilience:** human-centric analysis, adaption considering the climate change
 - **Large Language Model:** sentiment analysis (BERT, etc.)
 - **Uncertainty Quantification:** Monte Carlo simulation, surrogate model
 - **Bayesian system identification:** emphasis is on structural health monitoring
