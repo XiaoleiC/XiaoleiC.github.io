@@ -18,6 +18,8 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 Outside academia, I like road trips, swimming, hiking, skiing, running, and exploring different restaurants. Recently, I am learning to be a photographer :)
 
+## Current topics
+In the 2024 summer, I am working on understanding the community's psychological polarization during hazards. We employ a bottom-up method and construct the system Hamiltonian. Traditional techniques from statistical physics are widely used, e.g., mean field theory and renormalization group, to infer the macroscopic collective phenomena directly from the microscopic interactions.
 
 ## Research Interests
 - **Statistical Physics:** mean field theory, renormalization group, equilibrium, non-equilibrium
