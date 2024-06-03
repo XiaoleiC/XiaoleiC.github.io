@@ -33,7 +33,7 @@ In the 2024 summer, I am working on understanding the community's psychological 
 - **[Oct. 2022]** Excellent Master's Thesis at Tongji University, Shanghai, China
 - **[Jun. 2022]** Excellent Graduate of Tongji Unversity, Shanghai, China
 - **[Oct. 2021]** China National Scholarship, Shanghai, China
-- **[Aug. 2019]** Citation for Outstanding College Graduate, China Civil Engineering Society, Shanghai, China
+- **[Aug. 2019]** Citation for Outstanding College Graduate (summa cum laude), China Civil Engineering Society, Shanghai, China
 - **[Jun. 2019]** Excellent Undergraduate of Sichuan Province, Chengdu, China
 - **[Jan. 2019]** 1st International Engineering Mechanics Competition: 1st prize for individual competition and 2nd prize for team competition, Nanjing, China
 - **[Apr. 2018]** ASCE Steel Bridge Competition: 5th Overall and Best Display Medal (as the group leader), Sacramento, CA, USA
