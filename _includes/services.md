@@ -13,6 +13,7 @@
 <ul style="margin:0 0 20px;">
   <li>Journal of Structural Engineering, ASCE</li>
   <li>Journal of Engineering</li>
+  <li>Advanced Engineering Informatics</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
