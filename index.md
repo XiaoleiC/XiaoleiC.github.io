@@ -23,7 +23,7 @@ In the spring of 2025, I am working on machine learning methods for the lattice 
 
 
 ## Previous topics
-In the summer and fall of 2024, I worked on understanding the community's psychological polarization during hazards. We employed a bottom-up method and constructed the system Hamiltonian. Traditional techniques from statistical physics, e.g., mean-field theory and renormalization group, were widely used to infer the macroscopic collective phenomena directly from the microscopic interactions.
+In the summer and fall of 2024, I worked on understanding the community's psychological polarization during hazards. We employed a bottom-up method and constructed the system Hamiltonian. Traditional techniques from statistical physics, e.g., mean-field theory and renormalization group, were widely used to infer the macroscopic collective phenomena directly from the microscopic interactions. The paper is coming out soon.
 
 ## Research Interests
 - **Scientific Machine Learning:** spatial-temporal stuff, like PDE
