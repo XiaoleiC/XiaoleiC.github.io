@@ -3,18 +3,13 @@ layout: homepage
 ---
 
 ## About Me
-
-<!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I'm a Ph.D. candidate in the Department of Civil & Environmental Engineering at UC Berkeley,
-<!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include understanding community resilience (by leveraging the knowledge of statistical physics, e.g., renormalization group and mean field theory), AI and scientific machine learning, and uncertainty quantification (surrogate model and advanced Monte Carlo techniques). I am fortunate to collaborate with Prof.<a href="https://www.stat.berkeley.edu/~mmahoney/" target="_blank"> Michael Mahoney</a>'s group. My previous research topics are Bayesian system identification and hurricane simulation.
+I'm a Ph.D. candidate in the Department of Civil & Environmental Engineering at UC Berkeley, working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include understanding community resilience (by leveraging the knowledge of statistical physics, e.g., renormalization group and mean field theory), AI and scientific machine learning, and uncertainty quantification (surrogate model and advanced Monte Carlo techniques). 
+<!-- I am fortunate to collaborate with Prof.<a href="https://www.stat.berkeley.edu/~mmahoney/" target="_blank"> Michael Mahoney</a>'s group. -->
+My previous research topics are Bayesian system identification and hurricane simulation.
 
 Before joining Berkeley, I completed my master's degree at Tongji University, advised by Prof. <a href= "https://bridge.tongji.edu.cn/60/0e/c14928a155662/page.htm" target = "_blank"> Yaojun Ge</a> and Prof. <a href= "https://bridge.tongji.edu.cn/a0/4c/c14930a303180/page.htm" target = "_blank"> Wei Cui</a>. I got my bachelor's degree at Southwest Jiaotong University.
 <!-- and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>.  -->
 
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
 Outside academia, I like road trips, swimming, hiking, skiing, running, and exploring different restaurants.
 
