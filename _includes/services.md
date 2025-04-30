@@ -15,6 +15,7 @@
   <li>Journal of Engineering</li>
   <li>Advanced Engineering Informatics</li>
   <li>Mechanical Systems and Signal Processing</li>
+  <li>Engineering Structures</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
