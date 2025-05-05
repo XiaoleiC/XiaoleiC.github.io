@@ -14,7 +14,7 @@ Before joining Berkeley, I completed my master's degree at Tongji University, ad
 Outside academia, I like road trips, swimming, hiking, skiing, running, and exploring different restaurants.
 
 ## Current topics
-In the spring of 2025, I am working on machine learning methods for the lattice Boltzmann equations, a mesoscale CFD method. We use the neural network/operator to approximate the equilibrium operator, which is usually hard to formulate. We will test the algorithm on various classical problems. Specifically, we will use it for the traffic flow simulation.
+In the spring of 2025, I am working on scientific machine learning methods for spatial-temporal problems. I will join the Scientific Data Division of the Berkeley Lab as a Ph.D. intern and work with Prof.<a href="https://www.stat.berkeley.edu/~mmahoney/" target="_blank"> Michael Mahoney</a> in the 2025 summer.
 
 
 ## Previous topics
