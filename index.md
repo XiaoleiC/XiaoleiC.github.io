@@ -30,6 +30,7 @@ In the summer and fall of 2024, I worked on understanding the community's psycho
 - **Hurricane simulation:** Vickery's empirical full-track model
 
 ## Awards
+- **[Aug. 2024]** The Professor Alex & Georgia Scordelis Fellowship in Structural Engineering at UC Berkeley, Berkeley, CA, USA
 - **[Oct. 2022]** Excellent Master's Thesis at Tongji University, Shanghai, China
 - **[Jun. 2022]** Excellent Graduate of Tongji University, Shanghai, China
 - **[Oct. 2021]** China National Scholarship, Shanghai, China
