@@ -21,9 +21,9 @@ In the spring of 2025, I am working on scientific machine learning methods for s
 In the summer and fall of 2024, I worked on understanding the community's psychological polarization during hazards. We employed a bottom-up method and constructed the system Hamiltonian. Traditional techniques from statistical physics, e.g., mean-field theory and renormalization group, were widely used to infer the macroscopic collective phenomena directly from the microscopic interactions. The paper is coming out soon.
 
 ## Research Interests
-- **Scientific Machine Learning:** spatial-temporal stuff, like PDE
+- **Scientific Machine Learning:** spatial-temporal problems, like PDE
 - **Statistical Physics:** mean field theory, renormalization group, equilibrium, non-equilibrium
-- **Community Resilience:** human-centric analysis, adaption considering the climate change
+- **Community Resilience:** human-centric analysis, adaptation considering climate change
 - **Large Language Model:** sentiment analysis (BERT, etc.)
 - **Uncertainty Quantification:** Monte Carlo simulation, surrogate model
 - **Bayesian system identification:** emphasis is on structural health monitoring
