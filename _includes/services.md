@@ -17,6 +17,7 @@
   <li>Mechanical Systems and Signal Processing</li>
   <li>Engineering Structures</li>
   <li>Measurement</li>
+  <li>Journal of Building Engineering</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
