@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 <span style="color:red; font-weight:bold;">
-Actively exploring internship, part-time, and full-time (expected graduation time is January/June 2027) opportunities as a Research Scientist or Machine Learning Engineer in tech. Let’s connect!
+Actively exploring internship, part-time, and full-time (expected graduation time is December 2026/May 2027, which is flexible) opportunities as a Research Scientist or Machine Learning Engineer in tech. Let’s connect!
 </span>
 
 I'm a Ph.D. candidate in the Department of Civil & Environmental Engineering at UC Berkeley, working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include AI, scientific machine learning, and uncertainty quantification (surrogate model and advanced sampling techniques). I also developed a systematic approach to understanding community resilience from a statistical physics perspective (e.g., renormalization group and mean-field theory). 
