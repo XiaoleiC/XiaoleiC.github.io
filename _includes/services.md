@@ -18,6 +18,7 @@
   <li>Engineering Structures</li>
   <li>Measurement</li>
   <li>Journal of Building Engineering</li>
+  <li>Automation in Construction</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
