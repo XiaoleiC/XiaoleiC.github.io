@@ -28,9 +28,9 @@ In the summer and fall of 2024, I worked on understanding the community's psycho
 
 ## Research Interests
 - **Scientific Machine Learning:** spatial-temporal problems, like PDE
+- **Large Language Model:** sentiment analysis (BERT, etc.)
 - **Statistical Physics:** mean field theory, renormalization group, equilibrium, non-equilibrium
 - **Community Resilience:** human-centric analysis, adaptation considering climate change
-- **Large Language Model:** sentiment analysis (BERT, etc.)
 - **Uncertainty Quantification:** Monte Carlo simulation, surrogate model
 - **Bayesian system identification:** emphasis is on structural health monitoring
 - **Hurricane simulation:** Vickery's empirical full-track model
