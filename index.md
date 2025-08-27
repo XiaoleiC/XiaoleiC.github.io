@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-<span style="color:red; font-weight:bold;">
+<span style="color:black; font-weight:bold;">
 Actively exploring internship, part-time, and full-time (expected graduation time is December 2026/May 2027, which is flexible) opportunities as a Research Scientist or Machine Learning Engineer in tech. Let’s connect!
 </span>
 
