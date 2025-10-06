@@ -19,6 +19,7 @@
   <li>Measurement</li>
   <li>Journal of Building Engineering</li>
   <li>Automation in Construction</li>
+  <li>Reliability Engineering & System Safety</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
