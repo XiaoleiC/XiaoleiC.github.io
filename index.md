@@ -12,7 +12,7 @@ I'm a fourth-year Ph.D. candidate at UC Berkeley, working with Prof.<a href="htt
 Outside academia, I like road trips, swimming, hiking, skiing, running, and exploring different restaurants.
 
 ## Current topics
-Multimodal sentiment analysis by fine-tuning LLM (<a href="https://github.com/Nutlettt/EPC" target="_blank"> repo here</a>); text-to-image generation by diffusion (<a href="https://xiaoleic.github.io/CS280A/project5/index.html" target="_blank"> portfolio here</a>).
+Multimodal sentiment analysis by fine-tuning LLM (<a href="https://github.com/Nutlettt/EPC" target="_blank">repo here</a>); text-to-image generation by diffusion (<a href="https://xiaoleic.github.io/CS280A/project5/index.html" target="_blank">portfolio here</a>).
 
 ## Previous topics
 In the spring and summer of 2025, I worked on scientific machine learning methods for spatial-temporal problems. I joined the Scientific Data Division of the Berkeley Lab as a Ph.D. research intern and worked with Prof.<a href="https://www.stat.berkeley.edu/~mmahoney/" target="_blank"> Michael Mahoney</a>. We proposed a kinetic theory-based graph learning framework for flow forecasting, e.g., traffic. The paper is under preparation.
