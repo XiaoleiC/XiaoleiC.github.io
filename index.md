@@ -7,27 +7,26 @@ layout: homepage
 Actively exploring internship, part-time, and full-time (expected graduation time is December 2026/May 2027, which is flexible) opportunities as a Research Scientist or Machine Learning Engineer in tech. Let’s connect!
 </span>
 
-I'm a Ph.D. candidate in the Department of Civil & Environmental Engineering at UC Berkeley, working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include machine learning and uncertainty quantification, such as LLM post-training, graph learning, and efficient sampling algorithms. I also developed a systematic approach to understanding community resilience from a statistical physics perspective (e.g., renormalization group and mean-field theory). My research topics also include Bayesian system identification and hurricane simulation. I am always open to research collaborations, especially on LLM and generative models. Please feel free to connect! Before joining Berkeley, I completed my master's degree (with honors) at Tongji University, advised by Prof. <a href= "https://bridge.tongji.edu.cn/60/0e/c14928a155662/page.htm" target = "_blank"> Yaojun Ge</a> and Prof. <a href= "https://bridge.tongji.edu.cn/a0/4c/c14930a303180/page.htm" target = "_blank"> Wei Cui</a>. I got my bachelor's degree (with honors) from Southwest Jiaotong University.
+I'm a fourth-year Ph.D. candidate at UC Berkeley, working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include LLM post-training, generative models (diffusion and flow matching), and graph learning. I also do research in statistical physics (mean-field theory, renormalization group) and uncertainty quantification. I am always open to research collaborations, especially on LLM and generative models. Please feel free to connect! Before joining Berkeley, I got my master's degree (with honors) at Tongji University and bachelor's degree (with honors) at Southwest Jiaotong University.
 
 Outside academia, I like road trips, swimming, hiking, skiing, running, and exploring different restaurants.
 
 ## Current topics
-In the fall of 2025, I am working on generative AI and LLM.
-
+Multimodal sentiment analysis by fine-tuning LLM (<a href="https://github.com/Nutlettt/EPC" target="_blank"> repo here</a>); text-to-image generation by diffusion (<a href="https://xiaoleic.github.io/CS280A/project5/index.html" target="_blank"> portfolio here</a>).
 
 ## Previous topics
 In the spring and summer of 2025, I worked on scientific machine learning methods for spatial-temporal problems. I joined the Scientific Data Division of the Berkeley Lab as a Ph.D. research intern and worked with Prof.<a href="https://www.stat.berkeley.edu/~mmahoney/" target="_blank"> Michael Mahoney</a>. We proposed a kinetic theory-based graph learning framework for flow forecasting, e.g., traffic. The paper is under preparation.
 
-In the summer and fall of 2024, I worked on understanding the community's psychological polarization during hazards. We employed a bottom-up method and constructed the system Hamiltonian. Traditional techniques from statistical physics, such as mean-field theory and the renormalization group, have been widely used to infer macroscopic collective phenomena directly from microscopic interactions. The paper is coming out soon.
+In the summer and fall of 2024, I worked on understanding emotion dynamics during hazards. We employed a bottom-up method and constructed the system Hamiltonian. Traditional techniques from statistical physics, such as mean-field theory and the renormalization group, have been widely used to infer macroscopic collective phenomena directly from microscopic interactions. The paper is coming out soon.
 
 ## Research Interests
-- **Scientific Machine Learning:** spatial-temporal problems, like PDE
-- **Large Language Model:** sentiment analysis (BERT, etc.)
+- **Large Language Model:** multimodal sentiment analysis (BERT, BLIP, etc.)
+- **Generative Model:** diffusion model, flow matching, VAE
+- **Scientific Machine Learning:** spatial-temporal forecasting, like PDE
 - **Statistical Physics:** mean field theory, renormalization group, equilibrium, non-equilibrium
-- **Community Resilience:** human-centric analysis, adaptation considering climate change
-- **Uncertainty Quantification:** Monte Carlo simulation, surrogate model
-- **Bayesian system identification:** emphasis is on structural health monitoring
-- **Hurricane simulation:** Vickery's empirical full-track model
+- **Uncertainty Quantification:** importance sampling, sequential Monte Carlo, Hamiltonian Monte Carlo, surrogate model
+- **Bayesian System Identification:** emphasis is on structural health monitoring
+- **Hurricane Simulation:** Vickery's empirical full-track model
 
 ## Awards
 - **[May. 2025]** 2nd Place of Objective Resilience Student Paper/Presentation Competition at EMI 2025, Anaheim, CA, USA
