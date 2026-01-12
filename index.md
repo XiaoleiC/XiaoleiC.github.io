@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 <span style="color:purple; font-weight:bold;">
-Actively exploring internship, part-time, and full-time (expected graduation time is December 2026/May 2027, which is flexible) opportunities as a Research Scientist or Machine Learning Engineer in tech. Let’s connect!
+Actively seeking full-time (expected graduation time is December 2026/May 2027, which is flexible) opportunities as a Research Scientist or Machine Learning Engineer in tech. Let’s connect!
 </span>
 
-I'm a fourth-year Ph.D. candidate at UC Berkeley, working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include LLM post-training, generative models (diffusion and flow matching), and graph learning. I also do research in statistical physics (mean-field theory, renormalization group) and uncertainty quantification. I am always open to research collaborations, especially on LLM and generative models. Please feel free to connect! Before joining Berkeley, I got my master's degree (with honors) at Tongji University and bachelor's degree (with honors) at Southwest Jiaotong University.
+I'm a fourth-year Ph.D. candidate at UC Berkeley, working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include LLM post-training (SFT, RLHF, RLVR), generative models (diffusion and flow matching), and graph learning. I also do research in statistical physics (mean-field theory, renormalization group) and uncertainty quantification. I am always open to research collaborations, especially on LLM and generative models. Please feel free to connect! Before joining Berkeley, I got my master's degree (with honors) at Tongji University and bachelor's degree (with honors) at Southwest Jiaotong University.
 
 Outside academia, I like road trips, swimming, hiking, skiing, running, and exploring different restaurants.
 
