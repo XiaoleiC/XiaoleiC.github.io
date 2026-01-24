@@ -3,9 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-<span style="color:purple; font-weight:bold;">
+<!-- <span style="color:purple; font-weight:bold;">
 Actively seeking full-time (expected graduation time is December 2026/May 2027, which is flexible) opportunities as a Research Scientist or Machine Learning Engineer in tech. Let’s connect!
-</span>
+</span> -->
 
 I'm a fourth-year Ph.D. candidate at UC Berkeley, working with Prof.<a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank"> Ziqi Wang</a>. My research interests include LLM post-training (SFT, RLHF, RLVR), generative models (diffusion and flow matching), and graph learning. I also do research in statistical physics (mean-field theory, renormalization group) and uncertainty quantification. I am always open to research collaborations, especially on LLM and generative models. Please feel free to connect! Before joining Berkeley, I got my master's degree (with honors) at Tongji University and bachelor's degree (with honors) at Southwest Jiaotong University.
 
@@ -20,13 +20,13 @@ In the spring and summer of 2025, I worked on scientific machine learning method
 In the summer and fall of 2024, I worked on understanding emotion dynamics during hazards. We employed a bottom-up method and constructed the system Hamiltonian. Traditional techniques from statistical physics, such as mean-field theory and the renormalization group, have been widely used to infer macroscopic collective phenomena directly from microscopic interactions. The paper is coming out soon.
 
 ## Research Interests
-- **Large Language Model:** multimodal sentiment analysis (BERT, BLIP, etc.)
-- **Generative Model:** diffusion model, flow matching, VAE
-- **Scientific Machine Learning:** spatial-temporal forecasting, like PDE
-- **Statistical Physics:** mean field theory, renormalization group, equilibrium, non-equilibrium
-- **Uncertainty Quantification:** importance sampling, sequential Monte Carlo, Hamiltonian Monte Carlo, surrogate model
-- **Bayesian System Identification:** emphasis is on structural health monitoring
-- **Hurricane Simulation:** Vickery's empirical full-track model
+- **Large Language Model:** multimodal sentiment analysis
+- **Generative Model:** foundation models of natural hazard generation, such as ground motion, hurricanes, etc.
+<!-- - **Scientific Machine Learning:** spatial-temporal forecasting, like PDE -->
+- **Statistical Physics:** emotional phase transition (mean field theory, renormalization group)
+- **Uncertainty Quantification:** sequential Monte Carlo, Hamiltonian Monte Carlo
+<!-- - **Bayesian System Identification:** emphasis is on structural health monitoring -->
+<!-- - **Hurricane Simulation:** Vickery's empirical full-track model -->
 
 ## Awards
 - **[May. 2025]** 2nd Place of Objective Resilience Student Paper/Presentation Competition at EMI 2025, Anaheim, CA, USA
