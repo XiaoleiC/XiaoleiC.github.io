@@ -12,16 +12,11 @@ I'm a fourth-year Ph.D. candidate at UC Berkeley, working with Prof.<a href="htt
 Outside academia, I like road trips, swimming, hiking, skiing, running, and exploring different restaurants.
 
 ## Current topics
-Multimodal sentiment analysis by fine-tuning LLM (<a href="https://github.com/Nutlettt/EPC" target="_blank">repo here</a>); text-to-image generation by diffusion (<a href="https://xiaoleic.github.io/CS280A/project5/index.html" target="_blank">portfolio here</a>).
-
-## Previous topics
-In the spring and summer of 2025, I worked on scientific machine learning methods for spatial-temporal problems. I joined the Scientific Data Division of the Berkeley Lab as a Ph.D. research intern and worked with Prof.<a href="https://www.stat.berkeley.edu/~mmahoney/" target="_blank"> Michael Mahoney</a>. We proposed a kinetic theory-based graph learning framework for flow forecasting, e.g., traffic. The paper is under preparation.
-
-In the summer and fall of 2024, I worked on understanding emotion dynamics during hazards. We employed a bottom-up method and constructed the system Hamiltonian. Traditional techniques from statistical physics, such as mean-field theory and the renormalization group, have been widely used to infer macroscopic collective phenomena directly from microscopic interactions. The paper is coming out soon.
+Multimodal sentiment analysis; text-to-image generation; foundation models for natural hazard generation.
 
 ## Research Interests
 - **Large Language Model:** multimodal sentiment analysis
-- **Generative Model:** foundation models of natural hazard generation, such as ground motion, hurricanes, etc.
+- **Generative Model:** foundation models for natural hazard generation, such as ground motion, hurricanes, etc.
 <!-- - **Scientific Machine Learning:** spatial-temporal forecasting, like PDE -->
 - **Statistical Physics:** emotional phase transition (mean field theory, renormalization group)
 - **Uncertainty Quantification:** sequential Monte Carlo, Hamiltonian Monte Carlo
