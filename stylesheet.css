@@ -143,6 +143,17 @@ span.highlight {
   border-radius: 4px;
 }
 
+.pub-thumb-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  color: #888;
+  font-size: 13px;
+  font-style: italic;
+  border: 1px dashed #ccc;
+}
+
 .award-date {
   display: inline-block;
   width: 78px;
@@ -168,4 +179,10 @@ span.highlight {
 
 .section-intro {
   margin-top: 8px;
+}
+
+.news-list {
+  max-height: 220px;
+  overflow-y: auto;
+  padding-right: 8px;
 }
