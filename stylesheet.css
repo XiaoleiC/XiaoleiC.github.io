@@ -143,6 +143,11 @@ span.highlight {
   border-radius: 4px;
 }
 
+.pub-thumb-contain {
+  object-fit: contain;
+  background-color: #fff;
+}
+
 .pub-thumb-placeholder {
   display: flex;
   align-items: center;
@@ -179,6 +184,10 @@ span.highlight {
 
 .section-intro {
   margin-top: 8px;
+}
+
+.project-summary {
+  margin: 6px 0 0;
 }
 
 .news-list {

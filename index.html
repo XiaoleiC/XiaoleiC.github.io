@@ -28,13 +28,10 @@
                   Xiaolei (Alex) Chu
                 </p>
                 <p>
-                  Hi — I'm Xiaolei (Alex)! I'm a fourth-year Ph.D. candidate at <a href="https://www.berkeley.edu" target="_blank" rel="noopener">UC Berkeley</a>, in the Department of <a href="https://ce.berkeley.edu/" target="_blank" rel="noopener">Civil &amp; Environmental Engineering</a>, fortunate to work with Prof. <a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank" rel="noopener">Ziqi Wang</a>.
+                  Hi, I&rsquo;m Xiaolei (Alex), a fifth year Ph.D. candidate at <a href="https://www.berkeley.edu" target="_blank" rel="noopener">UC Berkeley</a>, advised by Prof. <a href="https://ce.berkeley.edu/people/faculty/ziqiwang" target="_blank" rel="noopener">Ziqi Wang</a>.
                 </p>
                 <p>
-                  Prior to my Ph.D., I received rigorous training in mechanics through my B.S. (with honors) at Southwest Jiaotong University and M.S. (with honors) at Tongji University, where I built a solid foundation in structural dynamics and probabilistic methods. During the first three years of my Ph.D., I focused on statistical physics, studying phase transitions and collective behavior in complex systems via mean-field theory and the renormalization group. Through this work, I discovered deep connections between statistical physics and modern AI — from energy-based models and diffusion processes to sampling and variational inference — which naturally led me to pivot toward AI research.
-                </p>
-                <p>
-                  My current interests center on generative models (diffusion / flow), reinforcement learning, and LLM post-training. I'm always open to research collaborations, especially on 3D vision, generative models, and various RL stuff. Please feel free to reach out!
+                  My research focuses on LLM post training, generative retrieval, diffusion models, reinforcement learning, and 3D vision. I also have a background in mechanics, uncertainty quantification, and statistical physics. I am always happy to connect and discuss potential collaborations.
                 </p>
 
                 <p style="text-align:center">
@@ -69,24 +66,6 @@
             </tr>
           </tbody></table>
 
-          <!-- ===== Research Interests ===== -->
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-            <tr>
-              <td style="padding:20px;width:100%;vertical-align:middle">
-                <h2>Research Interests</h2>
-                <p class="section-intro">
-                  My research sits at the intersection of <i>generative models</i>, <i>statistical physics</i>, and <i>uncertainty quantification</i>, with applications to natural-hazard modeling and human–AI collective behavior. Current focus areas:
-                </p>
-                <ul>
-                  <li><strong>Large Language Models.</strong> Multimodal sentiment analysis; post-training (SFT, RLHF, RLVR).</li>
-                  <li><strong>Generative Models.</strong> Foundation models for natural-hazard generation (ground motion, hurricanes); text-to-image generation.</li>
-                  <li><strong>Statistical Physics.</strong> Emotional phase transitions; mean-field theory; renormalization group.</li>
-                  <li><strong>Uncertainty Quantification.</strong> Sequential Monte Carlo; Hamiltonian Monte Carlo.</li>
-                </ul>
-              </td>
-            </tr>
-          </tbody></table>
-
           <!-- ===== Publications ===== -->
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
@@ -100,11 +79,15 @@
             <tr>
               <td style="padding:8px 5%;width:30%;vertical-align:middle">
                 <div class="one" style="display: grid; place-items: center;">
-                  <div class="pub-thumb pub-thumb-placeholder">Coming soon</div>
+                  <a href="assets/img/geoscout-trajectory-comparison.png" target="_blank" rel="noopener" aria-label="View the full-resolution GeoScout trajectory comparison">
+                    <img src="assets/img/geoscout-trajectory-comparison.png" alt="GeoScout camera trajectories for active reconstruction of ShapeNet objects" class="pub-thumb pub-thumb-contain" width="160" height="160" loading="lazy" decoding="async">
+                  </a>
                 </div>
               </td>
               <td style="padding:8px 20px;width:60%;vertical-align:middle">
-                <span class="papertitle">GeoScout: A Generalizable Geometry-Aware Policy for Active 3D Reconstruction</span>
+                <a href="https://github.com/XiaoleiC/GeoScout" target="_blank" rel="noopener">
+                  <span class="papertitle">GeoScout: A Generalizable Geometry-Aware Policy for Active 3D Reconstruction</span>
+                </a>
                 <br>
                 <strong>Xiaolei Chu</strong>,
                 Guanren Zhou,
@@ -112,14 +95,18 @@
                 Khalid M. Mosalam
                 <br>
                 <em>coming soon</em>, 2026
-                <p></p>
+                <br>
+                <a href="https://github.com/XiaoleiC/GeoScout" target="_blank" rel="noopener">code</a>
+                <p class="project-summary">GeoScout conditions a reinforcement-learning next-best-view policy on refined geometry captions, using language as a prior over unobserved shape to reconstruct unseen objects with fewer views than a matched no-caption policy.</p>
               </td>
             </tr>
 
             <tr>
               <td style="padding:8px 5%;width:30%;vertical-align:middle">
                 <div class="one" style="display: grid; place-items: center;">
-                  <div class="pub-thumb pub-thumb-placeholder">Coming soon</div>
+                  <a href="assets/img/structdiag-grounded-diagnosis-example.jpg" target="_blank" rel="noopener" aria-label="View the full-resolution expert-grounded visual diagnosis example">
+                    <img src="assets/img/structdiag-grounded-diagnosis-example.jpg" alt="Expert-grounded structural diagnosis linked to segmentation masks" class="pub-thumb pub-thumb-contain" width="160" height="160" loading="lazy" decoding="async">
+                  </a>
                 </div>
               </td>
               <td style="padding:8px 20px;width:60%;vertical-align:middle">
@@ -130,7 +117,7 @@
                 Khalid M. Mosalam
                 <br>
                 <em>coming soon</em>, 2026
-                <p></p>
+                <p class="project-summary">Hierarchical SAM 3 retrieval and DINOv3 specialist classifiers ground a frozen vision-language model&rsquo;s fine-grained diagnoses in segmentation masks, enabling traceability without new task-specific annotations or model fine-tuning.</p>
               </td>
             </tr>
 
@@ -173,7 +160,7 @@
                 <em>arXiv preprint</em>, Mar. 2026
                 <br>
                 <a href="https://arxiv.org/abs/2603.29282" target="_blank" rel="noopener">arXiv</a>
-                <p></p>
+                <p class="project-summary">Fine-tuned BERTweet estimates state-level stress prevalence from social-media posts to calibrate an interpretable network model, revealing that social influence outweighed direct exposure in over 80% of U.S. states.</p>
               </td>
             </tr>
 
