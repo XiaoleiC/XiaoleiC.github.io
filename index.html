@@ -154,13 +154,13 @@
               <td style="padding:8px 5%;width:30%;vertical-align:middle">
                 <div class="one" style="display: grid; place-items: center;">
                   <a href="assets/img/cfm4eq-architecture.png" target="_blank" rel="noopener" aria-label="View the full-resolution CFM4EQ network architecture">
-                    <img src="assets/img/cfm4eq-architecture.png" alt="CFM4EQ architecture with a conditional flow-matching prior, continuous condition encoder, latent diffusion U-Net, and spectrogram decoder" class="pub-thumb pub-thumb-contain" width="160" height="160" loading="lazy" decoding="async">
+                    <img src="assets/img/cfm4eq-architecture.png" alt="CFM4EQ architecture with a conditional diffusion prior, continuous condition encoder, latent diffusion U-Net, and spectrogram decoder" class="pub-thumb pub-thumb-contain" width="160" height="160" loading="lazy" decoding="async">
                   </a>
                 </div>
               </td>
               <td style="padding:8px 20px;width:60%;vertical-align:middle">
                 <a href="https://github.com/XiaoleiC/CFM4EQ" target="_blank" rel="noopener">
-                  <span class="papertitle">Hierarchical Conditional Generative Modeling for Site-based Ground Motion Synthesis</span>
+                  <span class="papertitle">Ground Motion Generation via Latent Space Diffusion</span>
                 </a>
                 <br>
                 <strong>Xiaolei Chu</strong>,
@@ -170,7 +170,7 @@
                 <em>coming soon</em>, 2026
                 <br>
                 <a href="https://github.com/XiaoleiC/CFM4EQ" target="_blank" rel="noopener">code</a>
-                <p class="project-summary">Ground-motion energy and duration remain stochastic even under a fixed earthquake scenario. This project learns their joint distribution conditioned on magnitude, distance, and site conditions, then propagates this variability into three-component spectrogram synthesis. This hierarchy captures energy&ndash;duration dependence and record-to-record diversity while recovering expected magnitude scaling and distance attenuation.</p>
+                <p class="project-summary">A hierarchical generative framework couples a conditional diffusion prior with latent space diffusion for three-component ground motion synthesis. The prior learns the joint distribution of energy and duration conditioned on magnitude, distance, and site properties, while a condition-aware diffusion U-Net synthesizes spectrograms in a learned latent space. This probabilistic factorization captures energy&ndash;duration dependence and sample diversity while recovering expected magnitude scaling and distance attenuation.</p>
               </td>
             </tr>
 
